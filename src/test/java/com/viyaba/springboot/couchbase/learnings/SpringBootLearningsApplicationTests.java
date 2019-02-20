@@ -1,4 +1,4 @@
-package com.viyaba.spring.learnings;
+package com.viyaba.springboot.couchbase.learnings;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
